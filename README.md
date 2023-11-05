@@ -25,3 +25,6 @@ $ ./wizualizuj.sh prz0.in -nie-kompiluj
 ```console
 $ ./wizualizuj.sh prz0.in -kompiluj
 ```
+#### Przykładowy wynik działania programu:
+![demo](/obrazki/wizualizacja.png)
+
