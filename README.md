@@ -7,6 +7,9 @@ Program ma ułatwić znajdowanie odpowiedzi na pytanie `Dlaczego mi ten test nie
 - W pliku `prz.cpp` w `folderze głównym` umieść swój program.
 - Najwygodniej umieścić w `folderze głównym` testy, które planujemy wizualizować
 ### Użytkowanie:
+```console
+$ ./wizualizuj <nazwa pliku wejsciowego> [(opcjonalne) -kompiluj / -nie-kompiluj]
+```
 ##### Najprostsza forma:
 ```console
 $ ./wizualizuj.sh prz0.in
